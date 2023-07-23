@@ -26,6 +26,15 @@
     width="50" height="40"/></a>
   </p>
 </div>
+
+<br>
+
+<div align="center">  
+  
+  ![dant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldantsc&show_icons=true&theme=midnight-purple)
+
+  
+</div>
       
 <br>
 
