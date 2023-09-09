@@ -36,6 +36,8 @@
 
   
 </div>
+
+<p>Estou utilizando o roadmap.sh para revisão técnica, e solidificando meus conhecimentos*</p>
       
 <br>
 
