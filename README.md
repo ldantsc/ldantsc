@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=100&color=9E99F9&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Seja-bem+vindo+!;Sou+o+Lucas%2C+desenvolvedor+web+Front-End)](https://git.io/typing-svg)
 
 <div align="center">
-  <h4 height="50">Meu nome é Lucas Dantas, e atualmente estou estudando desenvolvimento web front-end utilizando as seguintes ferramentas:</h4>
+  <h4 height="50" color="#FFF">Meu nome é Lucas Dantas, e atualmente estou estudando desenvolvimento web front-end utilizando as seguintes ferramentas:</h4>
   
   <br>
   
