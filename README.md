@@ -29,13 +29,10 @@
 
 <br>
 
-<div align="center">  
+<div align="center"> 
   
   ![dant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldantsc&show_icons=true&theme=midnight-purple)
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f63e3e5ce9f4ca588f1e3a?variant=dark)](https://roadmap.sh)
-</div>
-<div align="center">
-<p><em>Estou utilizando o roadmap.sh para revisão técnica, e solidificando meus conhecimentos*</em></p>
+  
 </div>
   
 <br>
