@@ -28,8 +28,9 @@ Trabalhando em pequenos projetos pessoais com intuito de adentrar ao mercado, pa
 
 > Github Stats
 
-<div align="center"> 
+<div align="center">
   
-  ![dant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldantsc&show_icons=true&theme=midnight-purple)
+![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</div>
   
 </div>
