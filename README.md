@@ -3,7 +3,7 @@
 
 Olá, me chamo Lucas Dantas, entusiasta por tecnologia, venho atualmente desenvolvendo habilidades na área de desenvolvimento web, utilizando as atuais técnologias do mercado. 
 
-Trabalhando em pequenos projetos pessoais com intuito de adentrar ao mercado, para o meu desenvolvimento pessoal e colocando em prática construção de interfaces, componentes funcionais e responsivos, consumo de API's e resoluções de problemas tanto no Frontend e Backend caso necessário :sunglasses:
+Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando em prática construção de interfaces, componentes funcionais e responsivos, consumo de API's e resoluções de problemas tanto no Frontend e Backend caso necessário :sunglasses:
 
 [Site portifólio](http://dantsdev.vercel.app)
 
