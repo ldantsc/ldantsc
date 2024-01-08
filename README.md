@@ -30,7 +30,7 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando 
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/ldantsc/github-stats/master/generated/languages.svg#gh-dark-mode-only) [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f63e3e5ce9f4ca588f1e3a?variant=dark&roadmaps=javascript%2Ctypescript%2Cfrontend%2Cangular)](https://roadmap.sh)
 </div>
   
 </div>
