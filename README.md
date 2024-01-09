@@ -24,7 +24,10 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando 
 
 > Skills
 
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,html,css,javascript,typescript,nodejs,git,github,angular,react,astro,bootstrap,tailwind,figma)](https://skillicons.dev)
+</div>
 
 > Github Stats
 
