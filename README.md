@@ -5,7 +5,13 @@ Olá, me chamo Lucas Dantas, venho atualmente desenvolvendo habilidades na área
 
 Trabalhando em projetos pessoais para o meu desenvolvimento pessoal colocando em prática construção de interfaces, componentes funcionais e responsivos, consumo de API's e resoluções de problemas tanto no Frontend e Backend caso necessário :sunglasses:
 
+<div align="center">
+  
 [Site portifólio](http://dantsdev.vercel.app)
+
+</div>
+
+<br>
 
 <div align="center"> 
 <a href = "mailto:dants.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
