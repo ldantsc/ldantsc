@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&background=FF00F100&vCenter=true&random=true&width=435&lines=Ol%C3%A1+mundo!;Lucas+Dantas%2C+Desenvolvedor+Web!)](https://git.io/typing-svg)
 
-Olá, me chamo Lucas Dantas, entusiasta por tecnologia, venho atualmente desenvolvendo habilidades na área de desenvolvimento web, utilizando as atuais técnologias do mercado. 
+Olá, me chamo Lucas Dantas, venho atualmente desenvolvendo habilidades na área de desenvolvimento web, utilizando as atuais técnologias do mercado. 
 
-Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando em prática construção de interfaces, componentes funcionais e responsivos, consumo de API's e resoluções de problemas tanto no Frontend e Backend caso necessário :sunglasses:
+Trabalhando em projetos pessoais para o meu desenvolvimento pessoal colocando em prática construção de interfaces, componentes funcionais e responsivos, consumo de API's e resoluções de problemas tanto no Frontend e Backend caso necessário :sunglasses:
 
 [Site portifólio](http://dantsdev.vercel.app)
 
@@ -15,10 +15,10 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando 
 
 > **Sobre mim**
 
-- :house: *Sou de São Paulo - SP*
-- :computer: *apaixonado por tecnologia... também gosto bastante de hardware*
+- :house: *Sou da capital de São Paulo*
+- :books: *Estudante do curso superior em Desenvolvimento Web - 2/4*
+- :computer: *entusiasta da tecnologia, hardware, programação, games, retro...*
 - :guitar: *músico nas horas vagas*
-- :video_game: *viciado em games no geral*
 - :star: *futuro fullstack*
 
 <br>
