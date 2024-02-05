@@ -13,7 +13,7 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando 
 <a href="https://discord.com/users/432259058561449985" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-> Sobre mim
+> **Sobre mim**
 
 - :house: *Sou de São Paulo - SP*
 - :computer: *apaixonado por tecnologia... também gosto bastante de hardware*
@@ -21,15 +21,29 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal e colocando 
 - :video_game: *viciado em games no geral*
 - :star: *futuro fullstack*
 
+<br>
 
-> Skills
+> **Skills**
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,html,css,javascript,typescript,nodejs,git,github,angular,react,astro,bootstrap,tailwind,figma)](https://skillicons.dev)
+<div>
+
+- *Fundamentais*
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,git)](https://skillicons.dev)
+
+- *Frameworks*
+
+[![My Skills](https://skillicons.dev/icons?i=express,angular,react,astro)](https://skillicons.dev)
+
+- *Outros*
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,bootstrap,tailwind,figma)](https://skillicons.dev)
+
 </div>
 
-> Github Stats
+<br>
+
+> **Github Stats**
 
 <div align="center">
   
