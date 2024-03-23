@@ -39,7 +39,7 @@ Trabalhando em projetos pessoais para o meu desenvolvimento pessoal colocando em
 
 - *Frameworks*
 
-[![My Skills](https://skillicons.dev/icons?i=express,angular,react,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,next,astro,express,nestjs)](https://skillicons.dev)
 
 - *Outros*
 
