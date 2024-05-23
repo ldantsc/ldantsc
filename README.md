@@ -27,7 +27,7 @@ Olá, meu nome é Lucas Dantas e seja bem vindo! Estou imerso no universo do des
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,git,npm,angular,react,express,nestjs,linux,bootstrap,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,git,angular,react,nestjs,linux,bootstrap,tailwind,figma)](https://skillicons.dev)
 
 </div>
 
