@@ -18,7 +18,7 @@ Olá, meu nome é Lucas Dantas e seja bem vindo! Estou imerso no universo do des
 <h2>Sobre mim</h2>
 
 > - :house: *Sou da capital de São Paulo*
-> - :books: *Estudante do curso superior em Desenvolvimento Web - 2/4*
+> - :books: *Estudante do curso superior em Desenvolvimento Web - 3/4*
 > - :computer: *entusiasta da tecnologia, hardware, programação, games, retro...*
 > - :guitar: *músico nas horas vagas*
 > - :star: *futuro fullstack*
